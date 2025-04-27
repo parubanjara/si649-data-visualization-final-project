@@ -6,9 +6,8 @@ body {
     color: #333;
   }
 
-  /* Hero Section */
   .project-topic {
-    background-image: url('../title2.jpg'); /* your title image here */
+    background-image: url('../opioid.jpg'); 
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -25,7 +24,7 @@ body {
     left: 0;
     right: 0;
     bottom: 0;
-    background: rgba(0,0,0,0.5); /* dark transparent overlay */
+    background: rgba(0,0,0,0.5);
   }
 
   .project-text {
@@ -68,5 +67,5 @@ body {
     display:flex;
     text-align: left;
     color:gray;
-    /* margin: 0; */
+
   }
